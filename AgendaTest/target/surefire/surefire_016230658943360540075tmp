@@ -1,0 +1,12 @@
+#surefire_0
+#Thu May 26 19:22:34 CEST 2022
+basedir=F\:\\3\u00BATRIMESTRE\\ENTORNOS\\AgendaTest
+jpda.address=49994
+test=des.agendatest.daotest.TestAgendaDaoArrayList
+file.encoding=UTF-8
+user.dir=F\:\\3\u00BATRIMESTRE\\ENTORNOS\\AgendaTest
+forkMode=once
+jpda.listen=true
+maven.surefire.debug=-agentlib\:jdwp\=transport\=dt_socket,server\=n,address\=49994
+maven.ext.class.path=C\:\\Program Files\\NetBeans-12.0\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+localRepository=C\:\\Users\\DAW\\.m2\\repository
